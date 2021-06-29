@@ -26,7 +26,7 @@ Data Analysis Using Power BI :-
 
     `SELECT count(*) FROM customers;
 
-3. Show transactions for Mumbai market (market code for chennai is Mark002
+3. Show transactions for Mumbai market ( Mark002 )
 
     SELECT * FROM transactions where market_code='Mark002';`
 
